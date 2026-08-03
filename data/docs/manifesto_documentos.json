@@ -1,0 +1,96 @@
+{
+  "versao_manifesto": "1.0",
+  "ultima_atualizacao": "2026-08-03",
+  "documentos": [
+    {
+      "id": "DOC-LOJA-001",
+      "titulo": "Política de Privacidade",
+      "categoria": "loja",
+      "organizacao": "Aurora Commerce",
+      "versao": "1.0",
+      "responsavel": "Jurídico & Compliance (Aurora)",
+      "caminho": "data/docs/loja/politica_privacidade.md"
+    },
+    {
+      "id": "DOC-LOJA-002",
+      "titulo": "Política de Reembolso e Devoluções",
+      "categoria": "loja",
+      "organizacao": "Aurora Commerce",
+      "versao": "1.0",
+      "responsavel": "Atendimento ao Cliente (Aurora)",
+      "caminho": "data/docs/loja/politica_reembolso_devolucoes.md"
+    },
+    {
+      "id": "DOC-LOJA-003",
+      "titulo": "Perguntas Frequentes (FAQ)",
+      "categoria": "loja",
+      "organizacao": "Aurora Commerce",
+      "versao": "1.0",
+      "responsavel": "Atendimento ao Cliente (Aurora)",
+      "caminho": "data/docs/loja/faq_loja.md"
+    },
+    {
+      "id": "DOC-LOJA-004",
+      "titulo": "Guia de Envios e Entregas",
+      "categoria": "loja",
+      "organizacao": "Aurora Commerce",
+      "versao": "1.0",
+      "responsavel": "Operações (Aurora)",
+      "caminho": "data/docs/loja/guia_envios_entregas.md"
+    },
+    {
+      "id": "DOC-LOJA-005",
+      "titulo": "Termos e Condições de Uso",
+      "categoria": "loja",
+      "organizacao": "Aurora Commerce",
+      "versao": "1.0",
+      "responsavel": "Jurídico & Compliance (Aurora)",
+      "caminho": "data/docs/loja/termos_condicoes.md"
+    },
+    {
+      "id": "DOC-LOG-001",
+      "titulo": "Política de Envios",
+      "categoria": "logistica",
+      "organizacao": "RotaLog",
+      "versao": "1.0",
+      "responsavel": "Operações Logísticas (RotaLog)",
+      "caminho": "data/docs/logistica/politica_envios.md"
+    },
+    {
+      "id": "DOC-LOG-002",
+      "titulo": "Procedimento de Rastreamento de Pedidos",
+      "categoria": "logistica",
+      "organizacao": "RotaLog",
+      "versao": "1.0",
+      "responsavel": "Tecnologia & Rastreio (RotaLog)",
+      "caminho": "data/docs/logistica/procedimento_rastreamento.md"
+    },
+    {
+      "id": "DOC-LOG-003",
+      "titulo": "Política de Reembolsos e Sinistros",
+      "categoria": "logistica",
+      "organizacao": "RotaLog",
+      "versao": "1.0",
+      "responsavel": "Gestão de Riscos (RotaLog)",
+      "caminho": "data/docs/logistica/politica_reembolsos_sinistros.md"
+    },
+    {
+      "id": "DOC-LOG-004",
+      "titulo": "Perguntas Frequentes (FAQ Logística)",
+      "categoria": "logistica",
+      "organizacao": "RotaLog",
+      "versao": "1.0",
+      "responsavel": "Suporte Operacional (RotaLog)",
+      "caminho": "data/docs/logistica/faq_logistica.md"
+    },
+    {
+      "id": "DOC-LOG-005",
+      "titulo": "Processo de Reclamações e Atendimento ao Cliente",
+      "categoria": "logistica",
+      "organizacao": "RotaLog",
+      "versao": "1.0",
+      "responsavel": "Qualidade & SAC (RotaLog)",
+      "caminho": "data/docs/logistica/reclamacoes_atendimento.md"
+    }
+  ]
+}

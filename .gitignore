@@ -1,0 +1,16 @@
+# Python / Ambientes virtuais
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+env/
+venv/
+
+# Dados brutos pesados e variáveis de ambiente
+data/raw/*.csv
+.env
+
+# Arquivos do sistema / editor
+.DS_Store
+Thumbs.db
+.vscode/
