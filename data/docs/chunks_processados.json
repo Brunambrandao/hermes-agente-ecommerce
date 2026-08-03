@@ -1,0 +1,452 @@
+[
+  {
+    "chunk_id": "DOC-LOJA-001-CHK-01",
+    "documento_id": "DOC-LOJA-001",
+    "titulo_documento": "Política de Privacidade",
+    "secao": "Introdução",
+    "categoria": "loja",
+    "organizacao": "Aurora Commerce",
+    "responsavel": "Jurídico & Compliance (Aurora)",
+    "conteudo": "# Política de Privacidade — Aurora Commerce\n\nVersão: 1.0  \nÚltima Atualização: 03/08/2026  \nResponsável: Jurídico & Compliance"
+  },
+  {
+    "chunk_id": "DOC-LOJA-001-CHK-02",
+    "documento_id": "DOC-LOJA-001",
+    "titulo_documento": "Política de Privacidade",
+    "secao": "1. Coleta de Dados Pessoais",
+    "categoria": "loja",
+    "organizacao": "Aurora Commerce",
+    "responsavel": "Jurídico & Compliance (Aurora)",
+    "conteudo": "## 1. Coleta de Dados Pessoais\nA Aurora Commerce coleta informações essenciais para a realização de compras, tais como: nome completo, CPF, endereço de entrega, e-mail e telefone de contato. Dados transacionais e de navegação também podem ser armazenados para fins operacionais e de melhoria contínua."
+  },
+  {
+    "chunk_id": "DOC-LOJA-001-CHK-03",
+    "documento_id": "DOC-LOJA-001",
+    "titulo_documento": "Política de Privacidade",
+    "secao": "2. Uso das Informações",
+    "categoria": "loja",
+    "organizacao": "Aurora Commerce",
+    "responsavel": "Jurídico & Compliance (Aurora)",
+    "conteudo": "## 2. Uso das Informações\nOs dados coletados são utilizados exclusivamente para:\n* Processar e enviar pedidos;\n* Emitir notas ficais;\n* Comunicar atualizações sobre o status do pedido;\n* Prestar suporte ao cliente e gerenciar trocas ou devoluções."
+  },
+  {
+    "chunk_id": "DOC-LOJA-001-CHK-04",
+    "documento_id": "DOC-LOJA-001",
+    "titulo_documento": "Política de Privacidade",
+    "secao": "3. Compartilhamento de Dados",
+    "categoria": "loja",
+    "organizacao": "Aurora Commerce",
+    "responsavel": "Jurídico & Compliance (Aurora)",
+    "conteudo": "## 3. Compartilhamento de Dados\nNão comercializamos dados pessoais. O compartilhamento ocorre apenas com parceiros estritamente necessários para a operação, como a transportadora RotaLog para realização de entregas e gateways de pagamento para processamento financeiro."
+  },
+  {
+    "chunk_id": "DOC-LOJA-001-CHK-05",
+    "documento_id": "DOC-LOJA-001",
+    "titulo_documento": "Política de Privacidade",
+    "secao": "4. Direitos do Titular (LGPD)",
+    "categoria": "loja",
+    "organizacao": "Aurora Commerce",
+    "responsavel": "Jurídico & Compliance (Aurora)",
+    "conteudo": "## 4. Direitos do Titular (LGPD)\nConforme a Lei Geral de Proteção de Dados (LGPD), o cliente possui o direito de solicitar a confirmação, acesso, correção ou eliminação de seus dados pessoais a qualquer momento através do nosso canal de atendimento: privacidade@auroracommerce.com.br."
+  },
+  {
+    "chunk_id": "DOC-LOJA-002-CHK-01",
+    "documento_id": "DOC-LOJA-002",
+    "titulo_documento": "Política de Reembolso e Devoluções",
+    "secao": "Introdução",
+    "categoria": "loja",
+    "organizacao": "Aurora Commerce",
+    "responsavel": "Atendimento ao Cliente (Aurora)",
+    "conteudo": "# Política de Reembolso e Devoluções — Aurora Commerce\n\nVersão: 1.0  \nÚltima Atualização: 03/08/2026  \nResponsável: Atendimento ao Cliente"
+  },
+  {
+    "chunk_id": "DOC-LOJA-002-CHK-02",
+    "documento_id": "DOC-LOJA-002",
+    "titulo_documento": "Política de Reembolso e Devoluções",
+    "secao": "1. Direito de Arrependimento",
+    "categoria": "loja",
+    "organizacao": "Aurora Commerce",
+    "responsavel": "Atendimento ao Cliente (Aurora)",
+    "conteudo": "## 1. Direito de Arrependimento\nO cliente pode solicitar a devolução de qualquer produto em até 7 (sete) dias corridos após o recebimento, conforme estabelecido pelo Código de Defesa do Consumidor. O produto deve estar sem uso, com embalagem original e nota fiscal."
+  },
+  {
+    "chunk_id": "DOC-LOJA-002-CHK-03",
+    "documento_id": "DOC-LOJA-002",
+    "titulo_documento": "Política de Reembolso e Devoluções",
+    "secao": "2. Produtos com Defeito ou Avaria",
+    "categoria": "loja",
+    "organizacao": "Aurora Commerce",
+    "responsavel": "Atendimento ao Cliente (Aurora)",
+    "conteudo": "## 2. Produtos com Defeito ou Avaria\nCaso o produto apresente defeito de fabricação ou avaria no transporte, o prazo para solicitação de troca ou devolução é de até 30 dias corridos. A Aurora Commerce arcará com todos os custos de frete para logística reversa nesses casos."
+  },
+  {
+    "chunk_id": "DOC-LOJA-002-CHK-04",
+    "documento_id": "DOC-LOJA-002",
+    "titulo_documento": "Política de Reembolso e Devoluções",
+    "secao": "3. Processo de Devolução",
+    "categoria": "loja",
+    "organizacao": "Aurora Commerce",
+    "responsavel": "Atendimento ao Cliente (Aurora)",
+    "conteudo": "## 3. Processo de Devolução\n1. O cliente entra em contato pelo suporte informando o número do pedido.\n2. É gerado um código de postagem reversa gratuito para envio via Correios/RotaLog.\n3. Após o recebimento no centro de distribuição, o item passa por análise de qualidade em até 3 dias úteis."
+  },
+  {
+    "chunk_id": "DOC-LOJA-002-CHK-05",
+    "documento_id": "DOC-LOJA-002",
+    "titulo_documento": "Política de Reembolso e Devoluções",
+    "secao": "4. Formas de Reembolso",
+    "categoria": "loja",
+    "organizacao": "Aurora Commerce",
+    "responsavel": "Atendimento ao Cliente (Aurora)",
+    "conteudo": "## 4. Formas de Reembolso\n* Cartão de Crédito: O estorno é solicitado à administradora e pode constar em até 2 faturas subsequentes.\n* Pix ou Boleto: O reembolso é efetuado via transferência bancária em até 5 dias úteis após a aprovação da devolução."
+  },
+  {
+    "chunk_id": "DOC-LOJA-003-CHK-01",
+    "documento_id": "DOC-LOJA-003",
+    "titulo_documento": "Perguntas Frequentes (FAQ)",
+    "secao": "Introdução",
+    "categoria": "loja",
+    "organizacao": "Aurora Commerce",
+    "responsavel": "Atendimento ao Cliente (Aurora)",
+    "conteudo": "# Perguntas Frequentes (FAQ) — Aurora Commerce\n\nVersão: 1.0  \nÚltima Atualização: 03/08/2026  \nResponsável: Atendimento ao Cliente"
+  },
+  {
+    "chunk_id": "DOC-LOJA-003-CHK-02",
+    "documento_id": "DOC-LOJA-003",
+    "titulo_documento": "Perguntas Frequentes (FAQ)",
+    "secao": "Q1: Quais são as formas de pagamento aceitas?",
+    "categoria": "loja",
+    "organizacao": "Aurora Commerce",
+    "responsavel": "Atendimento ao Cliente (Aurora)",
+    "conteudo": "## Q1: Quais são as formas de pagamento aceitas?\nAceitamos Pix, cartão de crédito (em até 10x sem juros) e boleto bancário."
+  },
+  {
+    "chunk_id": "DOC-LOJA-003-CHK-03",
+    "documento_id": "DOC-LOJA-003",
+    "titulo_documento": "Perguntas Frequentes (FAQ)",
+    "secao": "Q2: Posso alterar o endereço de entrega após a confirmação do pedido?",
+    "categoria": "loja",
+    "organizacao": "Aurora Commerce",
+    "responsavel": "Atendimento ao Cliente (Aurora)",
+    "conteudo": "## Q2: Posso alterar o endereço de entrega após a confirmação do pedido?\nCaso o pedido ainda não tenha sido faturado, a alteração pode ser solicitada via SAC. Após a emissão da nota fiscal e envio à transportadora RotaLog, não é possível alterar o endereço de destino."
+  },
+  {
+    "chunk_id": "DOC-LOJA-003-CHK-04",
+    "documento_id": "DOC-LOJA-003",
+    "titulo_documento": "Perguntas Frequentes (FAQ)",
+    "secao": "Q3: Como aplico um cupom de desconto?",
+    "categoria": "loja",
+    "organizacao": "Aurora Commerce",
+    "responsavel": "Atendimento ao Cliente (Aurora)",
+    "conteudo": "## Q3: Como aplico um cupom de desconto?\nO cupom deve ser inserido na tela do carrinho de compras, no campo \"Cupom de Desconto\", antes de finalizar o pagamento."
+  },
+  {
+    "chunk_id": "DOC-LOJA-003-CHK-05",
+    "documento_id": "DOC-LOJA-003",
+    "titulo_documento": "Perguntas Frequentes (FAQ)",
+    "secao": "Q4: O que fazer se meu pedido vier incompleto ou errado?",
+    "categoria": "loja",
+    "organizacao": "Aurora Commerce",
+    "responsavel": "Atendimento ao Cliente (Aurora)",
+    "conteudo": "## Q4: O que fazer se meu pedido vier incompleto ou errado?\nEntre em contato imediatamente com nossa central de atendimento informando o número do pedido e foto dos itens recebidos para que possamos providenciar o envio complementar."
+  },
+  {
+    "chunk_id": "DOC-LOJA-004-CHK-01",
+    "documento_id": "DOC-LOJA-004",
+    "titulo_documento": "Guia de Envios e Entregas",
+    "secao": "Introdução",
+    "categoria": "loja",
+    "organizacao": "Aurora Commerce",
+    "responsavel": "Operações (Aurora)",
+    "conteudo": "# Guia de Envios e Entregas — Aurora Commerce\n\nVersão: 1.0  \nÚltima Atualização: 03/08/2026  \nResponsável: Operações"
+  },
+  {
+    "chunk_id": "DOC-LOJA-004-CHK-02",
+    "documento_id": "DOC-LOJA-004",
+    "titulo_documento": "Guia de Envios e Entregas",
+    "secao": "1. Prazos de Processamento",
+    "categoria": "loja",
+    "organizacao": "Aurora Commerce",
+    "responsavel": "Operações (Aurora)",
+    "conteudo": "## 1. Prazos de Processamento\nApós a aprovação do pagamento, todos os pedidos passam por um prazo interno de separação e embalagem de até 24 horas úteis antes da coleta pela transportadora."
+  },
+  {
+    "chunk_id": "DOC-LOJA-004-CHK-03",
+    "documento_id": "DOC-LOJA-004",
+    "titulo_documento": "Guia de Envios e Entregas",
+    "secao": "2. Modalidades de Frete",
+    "categoria": "loja",
+    "organizacao": "Aurora Commerce",
+    "responsavel": "Operações (Aurora)",
+    "conteudo": "## 2. Modalidades de Frete\nOferecemos duas modalidades principais operadas pela RotaLog:\n* Frete Padrão: Opção econômica com prazo estendido dependendo do CEP.\n* Frete Expresso: Entrega priorizada para capitais e regiões metropolitanas."
+  },
+  {
+    "chunk_id": "DOC-LOJA-004-CHK-04",
+    "documento_id": "DOC-LOJA-004",
+    "titulo_documento": "Guia de Envios e Entregas",
+    "secao": "3. Frete Grátis",
+    "categoria": "loja",
+    "organizacao": "Aurora Commerce",
+    "responsavel": "Operações (Aurora)",
+    "conteudo": "## 3. Frete Grátis\nOferecemos frete grátis na modalidade Padrão para compras acima de R$ 250,00 para as regiões Sul e Sudeste."
+  },
+  {
+    "chunk_id": "DOC-LOJA-004-CHK-05",
+    "documento_id": "DOC-LOJA-004",
+    "titulo_documento": "Guia de Envios e Entregas",
+    "secao": "4. Tentativas de Entrega",
+    "categoria": "loja",
+    "organizacao": "Aurora Commerce",
+    "responsavel": "Operações (Aurora)",
+    "conteudo": "## 4. Tentativas de Entrega\nA transportadora realizará até 3 (três) tentativas de entrega no endereço cadastrado. Caso não haja ninguém para receber, o pacote retornará ao nosso centro de distribuição."
+  },
+  {
+    "chunk_id": "DOC-LOJA-005-CHK-01",
+    "documento_id": "DOC-LOJA-005",
+    "titulo_documento": "Termos e Condições de Uso",
+    "secao": "Introdução",
+    "categoria": "loja",
+    "organizacao": "Aurora Commerce",
+    "responsavel": "Jurídico & Compliance (Aurora)",
+    "conteudo": "# Termos e Condições de Uso — Aurora Commerce\n\nVersão: 1.0  \nÚltima Atualização: 03/08/2026  \nResponsável: Jurídico & Compliance"
+  },
+  {
+    "chunk_id": "DOC-LOJA-005-CHK-02",
+    "documento_id": "DOC-LOJA-005",
+    "titulo_documento": "Termos e Condições de Uso",
+    "secao": "1. Aceitação dos Termos",
+    "categoria": "loja",
+    "organizacao": "Aurora Commerce",
+    "responsavel": "Jurídico & Compliance (Aurora)",
+    "conteudo": "## 1. Aceitação dos Termos\nAo navegar ou realizar compras na plataforma Aurora Commerce, o usuário declara ter lido, compreendido e aceito estes Termos e Condições em sua totalidade."
+  },
+  {
+    "chunk_id": "DOC-LOJA-005-CHK-03",
+    "documento_id": "DOC-LOJA-005",
+    "titulo_documento": "Termos e Condições de Uso",
+    "secao": "2. Cadastro e Responsabilidade",
+    "categoria": "loja",
+    "organizacao": "Aurora Commerce",
+    "responsavel": "Jurídico & Compliance (Aurora)",
+    "conteudo": "## 2. Cadastro e Responsabilidade\nO usuário é responsável pela veracidade e exatidão dos dados fornecidos no cadastro. A conta é pessoal e intransferível, sendo o cliente responsável por manter o sigilo de suas credenciais de acesso."
+  },
+  {
+    "chunk_id": "DOC-LOJA-005-CHK-04",
+    "documento_id": "DOC-LOJA-005",
+    "titulo_documento": "Termos e Condições de Uso",
+    "secao": "3. Preços e Disponibilidade de Estoque",
+    "categoria": "loja",
+    "organizacao": "Aurora Commerce",
+    "responsavel": "Jurídico & Compliance (Aurora)",
+    "conteudo": "## 3. Preços e Disponibilidade de Estoque\nOs preços e a disponibilidade dos produtos estão sujeitos a alterações sem aviso prévio. Em caso de divergência de valor no carrinho, prevalecerá o preço exibido no momento da finalização do pedido."
+  },
+  {
+    "chunk_id": "DOC-LOJA-005-CHK-05",
+    "documento_id": "DOC-LOJA-005",
+    "titulo_documento": "Termos e Condições de Uso",
+    "secao": "4. Propriedade Intelectual",
+    "categoria": "loja",
+    "organizacao": "Aurora Commerce",
+    "responsavel": "Jurídico & Compliance (Aurora)",
+    "conteudo": "## 4. Propriedade Intelectual\nTodo o conteúdo do site (marcas, textos, logotipos, imagens e layout) pertence exclusivamente à Aurora Commerce e não pode ser reproduzido sem autorização prévia por escrito."
+  },
+  {
+    "chunk_id": "DOC-LOG-001-CHK-01",
+    "documento_id": "DOC-LOG-001",
+    "titulo_documento": "Política de Envios",
+    "secao": "Introdução",
+    "categoria": "logistica",
+    "organizacao": "RotaLog",
+    "responsavel": "Operações Logísticas (RotaLog)",
+    "conteudo": "# Política de Envios — RotaLog\n\nVersão: 1.0  \nÚltima Atualização: 03/08/2026  \nResponsável: Operações Logísticas"
+  },
+  {
+    "chunk_id": "DOC-LOG-001-CHK-02",
+    "documento_id": "DOC-LOG-001",
+    "titulo_documento": "Política de Envios",
+    "secao": "1. Coleta e Triagem",
+    "categoria": "logistica",
+    "organizacao": "RotaLog",
+    "responsavel": "Operações Logísticas (RotaLog)",
+    "conteudo": "## 1. Coleta e Triagem\nA RotaLog realiza a coleta de encomendas diariamente nos centros de distribuição da Aurora Commerce. Após a coleta, os pacotes passam por triagem automatizada no hub central antes de seguirem para as rotas regionais."
+  },
+  {
+    "chunk_id": "DOC-LOG-001-CHK-03",
+    "documento_id": "DOC-LOG-001",
+    "titulo_documento": "Política de Envios",
+    "secao": "2. Tipos de Transporte e Prazos",
+    "categoria": "logistica",
+    "organizacao": "RotaLog",
+    "responsavel": "Operações Logísticas (RotaLog)",
+    "conteudo": "## 2. Tipos de Transporte e Prazos\n* RotaExpress: Entregas prioritárias com prazo de 1 a 3 dias úteis para capitais e regiões metropolitanas.\n* RotaStandard: Transporte rodoviário padrão com prazo de 4 a 10 dias úteis para demais localidades."
+  },
+  {
+    "chunk_id": "DOC-LOG-001-CHK-04",
+    "documento_id": "DOC-LOG-001",
+    "titulo_documento": "Política de Envios",
+    "secao": "3. Horários e Condições de Entrega",
+    "categoria": "logistica",
+    "organizacao": "RotaLog",
+    "responsavel": "Operações Logísticas (RotaLog)",
+    "conteudo": "## 3. Horários e Condições de Entrega\nAs entregas são realizadas de segunda a sexta-feira, das 08h às 18h, e aos sábados das 08h às 12h. É necessária a presença de um adulto (maior de 18 anos) munido de documento com foto para assinatura do comprovante de recebimento."
+  },
+  {
+    "chunk_id": "DOC-LOG-002-CHK-01",
+    "documento_id": "DOC-LOG-002",
+    "titulo_documento": "Procedimento de Rastreamento de Pedidos",
+    "secao": "Introdução",
+    "categoria": "logistica",
+    "organizacao": "RotaLog",
+    "responsavel": "Tecnologia & Rastreio (RotaLog)",
+    "conteudo": "# Procedimento de Rastreamento de Pedidos — RotaLog\n\nVersão: 1.0  \nÚltima Atualização: 03/08/2026  \nResponsável: Tecnologia & Rastreio"
+  },
+  {
+    "chunk_id": "DOC-LOG-002-CHK-02",
+    "documento_id": "DOC-LOG-002",
+    "titulo_documento": "Procedimento de Rastreamento de Pedidos",
+    "secao": "1. Código de Rastreio",
+    "categoria": "logistica",
+    "organizacao": "RotaLog",
+    "responsavel": "Tecnologia & Rastreio (RotaLog)",
+    "conteudo": "## 1. Código de Rastreio\nAssim que o pedido é coletado no remetente, um código alfanumérico único (ex: RL123456789BR) é gerado e associado ao CPF/CNPJ do destinatário."
+  },
+  {
+    "chunk_id": "DOC-LOG-002-CHK-03",
+    "documento_id": "DOC-LOG-002",
+    "titulo_documento": "Procedimento de Rastreamento de Pedidos",
+    "secao": "2. Atualização de Status",
+    "categoria": "logistica",
+    "organizacao": "RotaLog",
+    "responsavel": "Tecnologia & Rastreio (RotaLog)",
+    "conteudo": "## 2. Atualização de Status\nO sistema de rastreamento é atualizado em tempo real nas seguintes etapas:\n* Objeto Coletado: Pacote recebido pela RotaLog.\n* Em Trânsito: Pacote em deslocamento entre hubs.\n* Saiu para Entrega: O motorista iniciou a rota final até o endereço informado.\n* Entregue: Encomenda entregue ao destinatário final."
+  },
+  {
+    "chunk_id": "DOC-LOG-002-CHK-04",
+    "documento_id": "DOC-LOG-002",
+    "titulo_documento": "Procedimento de Rastreamento de Pedidos",
+    "secao": "3. Dificuldades na Localização",
+    "categoria": "logistica",
+    "organizacao": "RotaLog",
+    "responsavel": "Tecnologia & Rastreio (RotaLog)",
+    "conteudo": "## 3. Dificuldades na Localização\nSe o rastreio indicar \"Endereço Não Localizado\" ou \"Ausente\", o destinatário pode solicitar o reagendamento diretamente no portal da RotaLog em até 48 horas."
+  },
+  {
+    "chunk_id": "DOC-LOG-003-CHK-01",
+    "documento_id": "DOC-LOG-003",
+    "titulo_documento": "Política de Reembolsos e Sinistros",
+    "secao": "Introdução",
+    "categoria": "logistica",
+    "organizacao": "RotaLog",
+    "responsavel": "Gestão de Riscos (RotaLog)",
+    "conteudo": "# Política de Reembolsos e Sinistros — RotaLog\n\nVersão: 1.0  \nÚltima Atualização: 03/08/2026  \nResponsável: Gestão de Riscos"
+  },
+  {
+    "chunk_id": "DOC-LOG-003-CHK-02",
+    "documento_id": "DOC-LOG-003",
+    "titulo_documento": "Política de Reembolsos e Sinistros",
+    "secao": "1. Cobertura de Sinistros",
+    "categoria": "logistica",
+    "organizacao": "RotaLog",
+    "responsavel": "Gestão de Riscos (RotaLog)",
+    "conteudo": "## 1. Cobertura de Sinistros\nTodas as cargas transportadas pela RotaLog possuem seguro contra extravio, roubo, furto qualificado e avarias decorrentes do transporte."
+  },
+  {
+    "chunk_id": "DOC-LOG-003-CHK-03",
+    "documento_id": "DOC-LOG-003",
+    "titulo_documento": "Política de Reembolsos e Sinistros",
+    "secao": "2. Indenizações e Avarias",
+    "categoria": "logistica",
+    "organizacao": "RotaLog",
+    "responsavel": "Gestão de Riscos (RotaLog)",
+    "conteudo": "## 2. Indenizações e Avarias\nCaso um pacote seja confirmado como extraviado ou danificado durante o transporte, a RotaLog notifica imediatamente o embarcador (Aurora Commerce) para que a reposição do produto ou o reembolso do cliente seja efetuado sem custos adicionais."
+  },
+  {
+    "chunk_id": "DOC-LOG-003-CHK-04",
+    "documento_id": "DOC-LOG-003",
+    "titulo_documento": "Política de Reembolsos e Sinistros",
+    "secao": "3. Prazos de Acionamento",
+    "categoria": "logistica",
+    "organizacao": "RotaLog",
+    "responsavel": "Gestão de Riscos (RotaLog)",
+    "conteudo": "## 3. Prazos de Acionamento\nA abertura do processo de sinistro por parte do remetente/destinatário deve ser feita em até 15 dias corridos após a constatação da irregularidade no rastreamento."
+  },
+  {
+    "chunk_id": "DOC-LOG-004-CHK-01",
+    "documento_id": "DOC-LOG-004",
+    "titulo_documento": "Perguntas Frequentes (FAQ Logística)",
+    "secao": "Introdução",
+    "categoria": "logistica",
+    "organizacao": "RotaLog",
+    "responsavel": "Suporte Operacional (RotaLog)",
+    "conteudo": "# Perguntas Frequentes (FAQ Logística) — RotaLog\n\nVersão: 1.0  \nÚltima Atualização: 03/08/2026  \nResponsável: Suporte Operacional"
+  },
+  {
+    "chunk_id": "DOC-LOG-004-CHK-02",
+    "documento_id": "DOC-LOG-004",
+    "titulo_documento": "Perguntas Frequentes (FAQ Logística)",
+    "secao": "Q1: Quantas tentativas de entrega a RotaLog realiza?",
+    "categoria": "logistica",
+    "organizacao": "RotaLog",
+    "responsavel": "Suporte Operacional (RotaLog)",
+    "conteudo": "## Q1: Quantas tentativas de entrega a RotaLog realiza?\nRealizamos até 3 tentativas de entrega seguidas. Caso não haja sucesso, a carga fica disponível para retirada no hub regional mais próximo por até 7 dias antes de retornar ao remetente."
+  },
+  {
+    "chunk_id": "DOC-LOG-004-CHK-03",
+    "documento_id": "DOC-LOG-004",
+    "titulo_documento": "Perguntas Frequentes (FAQ Logística)",
+    "secao": "Q2: Terceiros ou vizinhos podem receber minha encomenda?",
+    "categoria": "logistica",
+    "organizacao": "RotaLog",
+    "responsavel": "Suporte Operacional (RotaLog)",
+    "conteudo": "## Q2: Terceiros ou vizinhos podem receber minha encomenda?\nSim. Porteiros, parentes ou vizinhos maiores de 18 anos podem receber a encomenda, desde que assinem o comprovante e apresentem documento com foto."
+  },
+  {
+    "chunk_id": "DOC-LOG-004-CHK-04",
+    "documento_id": "DOC-LOG-004",
+    "titulo_documento": "Perguntas Frequentes (FAQ Logística)",
+    "secao": "Q3: O que significa \"Retido na Fiscalização\"?",
+    "categoria": "logistica",
+    "organizacao": "RotaLog",
+    "responsavel": "Suporte Operacional (RotaLog)",
+    "conteudo": "## Q3: O que significa \"Retido na Fiscalização\"?\nSignifica que a mercadoria está passando por verificação de rotina pela Secretaria da Fazenda (SEFAZ) no posto fiscal estadual. O prazo de liberação varia conforme o órgão fiscalizador."
+  },
+  {
+    "chunk_id": "DOC-LOG-005-CHK-01",
+    "documento_id": "DOC-LOG-005",
+    "titulo_documento": "Processo de Reclamações e Atendimento ao Cliente",
+    "secao": "Introdução",
+    "categoria": "logistica",
+    "organizacao": "RotaLog",
+    "responsavel": "Qualidade & SAC (RotaLog)",
+    "conteudo": "# Processo de Reclamações e Atendimento ao Cliente — RotaLog\n\nVersão: 1.0  \nÚltima Atualização: 03/08/2026  \nResponsável: Qualidade & SAC"
+  },
+  {
+    "chunk_id": "DOC-LOG-005-CHK-02",
+    "documento_id": "DOC-LOG-005",
+    "titulo_documento": "Processo de Reclamações e Atendimento ao Cliente",
+    "secao": "1. Canais de Atendimento",
+    "categoria": "logistica",
+    "organizacao": "RotaLog",
+    "responsavel": "Qualidade & SAC (RotaLog)",
+    "conteudo": "## 1. Canais de Atendimento\nO suporte operacional da RotaLog atende via central telefônica (0800-700-ROTA), e-mail (suporte@rotalog.com.br) e assistente virtual no site oficial."
+  },
+  {
+    "chunk_id": "DOC-LOG-005-CHK-03",
+    "documento_id": "DOC-LOG-005",
+    "titulo_documento": "Processo de Reclamações e Atendimento ao Cliente",
+    "secao": "2. Prazos de Resposta",
+    "categoria": "logistica",
+    "organizacao": "RotaLog",
+    "responsavel": "Qualidade & SAC (RotaLog)",
+    "conteudo": "## 2. Prazos de Resposta\n* Consultas de Rastreio: Resposta imediata via assistente virtual.\n* Abertura de Chamados de Avaria/Extravio: Análise e retorno em até 2 dias úteis."
+  },
+  {
+    "chunk_id": "DOC-LOG-005-CHK-04",
+    "documento_id": "DOC-LOG-005",
+    "titulo_documento": "Processo de Reclamações e Atendimento ao Cliente",
+    "secao": "3. Protocolos e Ouvidoria",
+    "categoria": "logistica",
+    "organizacao": "RotaLog",
+    "responsavel": "Qualidade & SAC (RotaLog)",
+    "conteudo": "## 3. Protocolos e Ouvidoria\nCaso a reclamação não seja resolvida no atendimento primário, o cliente pode recorrer à Ouvidoria informando o número do protocolo anterior. O prazo de resposta final da Ouvidoria é de até 5 dias úteis."
+  }
+]
