@@ -49,6 +49,9 @@ Reduzir a sobrecarga dos canais de suporte humano através de um agente conversa
                      │
                      ▼
   [Resposta Fundamentada com Citação de Fontes / Fallback]
+  
+ 
+---
 
 ## Estrutura do Repositório
   hermes-agente-ecommerce/
