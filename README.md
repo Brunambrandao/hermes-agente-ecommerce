@@ -66,36 +66,43 @@ Reduzir a sobrecarga dos canais de suporte humano através de um agente conversa
 ├── README.md               # Documentação principal do projeto
 └── requisitos.txt          # Dependências do ecossistema Python
 
+---
+
 ## Como Executar o Projeto Localmente
 * Opção 1: Com Python e Ambiente Virtual
 
-1 - Clone o repositório:
+1. Clone o repositório:
 git clone [https://github.com/Brunambrandao/hermes-agente-ecommerce.git](https://github.com/Brunambrandao/hermes-agente-ecommerce.git)
 cd hermes-agente-ecommerce
-2 - Crie e ative um ambiente virtual:
+2. Crie e ative um ambiente virtual:
 python -m venv venv
 # No Windows:
 .\venv\Scripts\activate
 # No Linux/Mac:
 source venv/bin/activate
-3 - Instale as dependências:
+3. Instale as dependências:
 pip install -r requisitos.txt
-4 - Configure a variável de ambiente:
+4. Configure a variável de ambiente:
 Crie um arquivo .env na raiz do projeto contendo sua chave da Groq:
 GROQ_API_KEY=sua_chave_aqui
-5 - Execute a aplicação:
+5. Execute a aplicação:
 streamlit run app.py
+
+---
+
 ** Opção 2: Com Docker e Docker Compose
-1 - Certifique-se de ter o Docker instalado e rode:
+1. Certifique-se de ter o Docker instalado e rode:
 docker-compose up --build
-2 - Acesse a aplicação em http://localhost:8501.
+2. Acesse a aplicação em http://localhost:8501.
+
+---
 
 ## 🔒 Governança e Segurança de Dados
-* Alinhamento LGPD: O agente não coleta e nem armazena dados pessoais identificáveis (PII) durante as interações.
+* ** Alinhamento LGPD: O agente não coleta e nem armazena dados pessoais identificáveis (PII) durante as interações.
+* ** Segurança de Credenciais: As chaves de API são gerenciadas via Secrets da plataforma de nuvem e variáveis de ambiente locais, nunca ficando expostas no código público.
+* ** Transparência: O assistente identifica claramente suas limitações e orienta o usuário quanto aos canais de suporte oficiais quando necessário.
 
-* Segurança de Credenciais: As chaves de API são gerenciadas via Secrets da plataforma de nuvem e variáveis de ambiente locais, nunca ficando expostas no código público.
-
-* Transparência: O assistente identifica claramente suas limitações e orienta o usuário quanto aos canais de suporte oficiais quando necessário.
+---
 
 ## 👩‍💻 Autora
 Desenvolvido por Bruna Brandão
