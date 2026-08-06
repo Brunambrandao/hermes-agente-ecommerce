@@ -55,7 +55,8 @@ def gerar_resposta_rag(pergunta: str):
 
     prompt_usuario = f"--- CONTEXTO RECUPERADO ---\n{contexto}\n---------------------------\n\nPERGUNTA: {pergunta}"
 
-    api_key = os.getenv("GROQ_API_KEY")
+    # Tenta obter primeiro dos Secrets do Streamlit Cloud; se não achar, lê do .env local
+    api_key = st.secrets.get("GROQ_API_KEY") or os.getenv("GROQ_API_KEY")
     if not api_key:
         return "⚠️ Erro: Variável GROQ_API_KEY não configurada no arquivo .env."
 
