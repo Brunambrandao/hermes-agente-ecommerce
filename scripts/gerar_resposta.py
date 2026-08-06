@@ -13,18 +13,26 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 VECTOR_DB_DIR = BASE_DIR / "data" / "vector_db"
 
 def recuperar_contexto(pergunta: str, top_k: int = 3):
-    client = chromadb.PersistentClient(path=str(VECTOR_DB_DIR))
-    sentence_transformer_ef = embedding_functions.SentenceTransformerEmbeddingFunction(model_name="all-MiniLM-L6-v2")
+    try:
+        client = chromadb.PersistentClient(path=str(VECTOR_DB_DIR))
+        sentence_transformer_ef = embedding_functions.SentenceTransformerEmbeddingFunction(model_name="all-MiniLM-L6-v2")
 
-    collection = client.get_collection(
-        name="hermes_base_conhecimento",
-        embedding_function=sentence_transformer_ef
-    )
+        collection = client.get_collection(
+            name="hermes_base_conhecimento",
+            embedding_function=sentence_transformer_ef
+        )
 
-    resultados = collection.query(
-        query_texts=[pergunta],
-        n_results=top_k
-    )
+        resultados = collection.query(
+            query_texts=[pergunta],
+            n_results=top_k
+        )
+    except Exception as e:
+        # Encapsula qualquer erro do ChromaDB (banco ausente, coleção não criada,
+        # caminho incorreto, etc.) em uma mensagem amigável e re-lança para quem chamou.
+        raise RuntimeError(
+            "Não foi possível consultar a base de conhecimento (ChromaDB). "
+            "Verifique se o banco vetorial foi gerado corretamente em 'data/vector_db'."
+        ) from e
 
     bloco_contexto = []
     for i in range(len(resultados["ids"][0])):
@@ -40,10 +48,15 @@ def recuperar_contexto(pergunta: str, top_k: int = 3):
 
 def gerar_resposta_rag(pergunta: str):
     print(f"\n💬 Processando pergunta: '{pergunta}'")
-    
+
     # 1. Recuperar contexto da Etapa 4
-    contexto = recuperar_contexto(pergunta, top_k=3)
-    
+    try:
+        contexto = recuperar_contexto(pergunta, top_k=3)
+    except RuntimeError as e:
+        # Mensagem já formatada de forma amigável em recuperar_contexto
+        print(f"\n⚠️ {e}")
+        return
+
     # 2. System Instruction (Guardrails & Fallback)
     system_instruction = (
         "Você é o Hermes, um assistente virtual especialista em e-commerce.\n"
@@ -73,25 +86,32 @@ def gerar_resposta_rag(pergunta: str):
         print("Defina no arquivo .env a variável: GROQ_API_KEY=\"gsk_...\"")
         return
 
-    client = Groq(api_key=api_key)
-    
-    print("⏳ Solicitando resposta ao LLM (Groq)...")
-    chat_completion = client.chat.completions.create(
-        messages=[
-            {
-                "role": "system",
-                "content": system_instruction
-            },
-            {
-                "role": "user",
-                "content": prompt_usuario
-            }
-        ],
-        model="llama-3.3-70b-versatile",
-        temperature=0.2
-    )
+    try:
+        client = Groq(api_key=api_key)
 
-    resposta = chat_completion.choices[0].message.content
+        print("⏳ Solicitando resposta ao LLM (Groq)...")
+        chat_completion = client.chat.completions.create(
+            messages=[
+                {
+                    "role": "system",
+                    "content": system_instruction
+                },
+                {
+                    "role": "user",
+                    "content": prompt_usuario
+                }
+            ],
+            model="llama-3.3-70b-versatile",
+            temperature=0.2
+        )
+
+        resposta = chat_completion.choices[0].message.content
+    except Exception as e:
+        # Captura falhas da API da Groq (instabilidade, limite de uso, chave inválida, etc.)
+        print("\n⚠️ Não foi possível obter uma resposta do modelo agora.")
+        print("Isso pode acontecer por instabilidade temporária ou limite de uso da API Groq.")
+        print("Tente novamente em instantes.")
+        return
 
     print("\n🤖 RESPOSTA DO HERMES:")
     print("=" * 60)

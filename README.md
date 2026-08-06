@@ -59,18 +59,18 @@ Reduzir a sobrecarga dos canais de suporte humano através de um agente conversa
 ```text
 hermes-agente-ecommerce/
 ├── .devcontainer/          # Configuração de ambiente de desenvolvimento
-├── dados/                  # Base de conhecimento e banco vetorial ChromaDB
-├── documentos/             # Relatórios de governança e documentação de IA
+├── data/                   # Base de conhecimento e banco vetorial ChromaDB
+├── docs/                   # Relatórios de governança e documentação de IA
 ├── registros_execucao/     # Capturas de tela e evidências de execução na nuvem
-├── roteiros/               # Roteiros de testes e casos de uso
+├── scripts/                # Scripts auxiliares, testes e casos de uso
 ├── .dockerignore           # Arquivos ignorados no build da imagem
 ├── .gitignore              # Proteção de credenciais e arquivos locais
 ├── app.py                  # Aplicação principal Streamlit
 ├── Dockerfile              # Receita para build do container Docker
 ├── docker-compose.yml      # Execução orquestrada do container
-├── LICENÇA                 # Licença MIT do repositório
+├── LICENSE                 # Licença MIT do repositório
 ├── README.md               # Documentação principal do projeto
-└── requisitos.txt          # Dependências do ecossistema Python
+└── requirements.txt        # Dependências do ecossistema Python
 ```
 
 ---
@@ -99,7 +99,7 @@ source venv/bin/activate
 3. Instale as dependências:
 
 ```bash
-pip install -r requisitos.txt
+pip install -r requirements.txt
 ```
 
 4. Configure a variável de ambiente:
